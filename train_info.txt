@@ -1,0 +1,16 @@
+
+12315 chennaiExpress Hyderabad Vijayawada 50
+12567  Passenger chennai Guntur 40
+10345 Superfast Vijayawada Chennai 60
+13498  Intercity Guntur Hyderabad 45
+
+~
+12345 krishna hyderabad nellor 20
+2345 kaveri kavali nellor 34
+12345 kaveri nellor kavali 34
+12345 kaveri kavali nellor 34
+12340 kaveri nellor kavali 45
+12000 m n k 12
+10000 kaveriexpress nellor kavali 20
+12789 simhadriexpress shimla pune 300
+12355 express hyderabad nellor 23
